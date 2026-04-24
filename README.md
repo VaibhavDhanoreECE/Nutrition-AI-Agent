@@ -178,7 +178,9 @@ GROQ_API_KEY = "your_api_key"
 ```
 
 ---
+## 🚀 Live Demo
 
+[👉 Launch Nutrition AI App](https://pranav-nova-nutrition-ai-app-dlypir.streamlit.app/)
 ## 📊 LLM-as-Judge Rubric
 
 The Judge Agent evaluates output based on:
